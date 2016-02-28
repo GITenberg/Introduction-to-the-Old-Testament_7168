@@ -1,0 +1,22 @@
+_repo: Introduction-to-the-Old-Testament_7168
+creator:
+  author:
+    agent_name: McFadyen, John Edgar
+    birthdate: 1870
+    deathdate: 1933
+    gutenberg_agent_id: '2361'
+    url: http://www.gutenberg.org/2009/agents/2361
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Old Testament -- Introductions'
+title: Introduction to the Old Testament
+url: http://www.gutenberg.org/ebooks/7168
